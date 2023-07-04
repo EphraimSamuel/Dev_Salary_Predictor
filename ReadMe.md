@@ -14,7 +14,7 @@ The Salary Predictor for Developers is a machine learning web application that p
 - Implemented in Python programming language
 
 ## Installation:
-1. Clone the project repository from git@github.com:EphraimSamuel/Dev_Salary_Predictor.git.
+1. Clone the project repository from https://github.com/EphraimSamuel/Dev_Salary_Predictor
 2. Navigate to the project directory.
 3. Install the required dependencies using the following command:
 
